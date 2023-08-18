@@ -1,2 +1,2 @@
-# evento
-site que notifica sobre um evento
+# evento marista
+site feito para publicação e divugação do evento
