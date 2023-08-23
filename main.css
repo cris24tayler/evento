@@ -9,3 +9,9 @@ nav#menu ul{
 nav#menu{
     display: block;
 }
+h1#titulo{
+    color: blue;       
+}
+b{
+    color: red;
+}
